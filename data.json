@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Python REST APIs with Flask",
+    "description": "Learn how to build lightweight backends.",
+    "target_date": "2026-11-01",
+    "status": "In Progress"
+  }
+]
